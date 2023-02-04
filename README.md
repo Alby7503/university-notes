@@ -57,7 +57,7 @@ __________
 | ----- | :----: | :-----------: |
 | [Algebra](../../raw/main/Secondo%20Anno/Algebra.pdf) | Completi | 02/01/2023 |
 | [Calcolo delle Probabilità](../../raw/main/Secondo%20Anno/Calcolo%20delle%20Probabilità.pdf) | Completi | 27/01/2023 |
-| [Sistemi Operativi I](../../raw/main/Secondo%20Anno/Sistemi%20Operativi.pdf) | Completi | 04/02/23 |
+| [Sistemi Operativi I](../../raw/main/Secondo%20Anno/Sistemi%20Operativi.pdf) | Completi | 04/02/2023 |
 | [Basi di Dati I](../../raw/main/Secondo%20Anno/Basi%20di%20Dati.pdf) | Completi | 04/02/2023 |
 </details>
 
