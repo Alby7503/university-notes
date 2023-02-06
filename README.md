@@ -1,12 +1,15 @@
 <a href="https://github.com/Exyss"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://t.me/Exyss"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 <a href="https://ko-fi.com/exyss"><img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white"/></a>
- 	
+<a href="#"><img src="https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white"/></a>
+
 # Appunti Universitari - Laurea in Informatica
+
+$\to$ <a href="#-appunti">**Clicca qui per andare direttamente agli appunti**</a> $\gets$
 
 ### Introduzione
 
-Appunti e riassunti personali (ormai veri e propri libri) raccolti a partire dal 2021 durante il mio _eccentrico percorso accademico_ in ambito del corso di laurea in Informatica offerto dall'Università di Roma "Sapienza".
+Appunti e riassunti personali (ormai veri e propri libri) raccolti a partire dal 2021 durante il mio _eccentrico percorso accademico_ in ambito del corso di laurea in Informatica offerto dall'Università degli Studi di Roma "La Sapienza".
 
 Perché condividerli? Il motivo è semplice: in quanto aperto sostenitore del [Copyleft](https://en.wikipedia.org/wiki/Copyleft) e della diffusione aperta della conoscenza in ogni sua forma, ho deciso di renderli pubblici ed utilizzabili da chiunque.
 
