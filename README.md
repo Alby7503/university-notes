@@ -71,7 +71,7 @@ __________
 | ----- | :----: | :-----------: |
 | [Progettazione di Algoritmi](../../raw/main/Secondo%20Anno/Progettazione%20di%20Algoritmi.pdf) | In sincrono | 05/03/2023 |
 | [Sistemi Operativi II](../../raw/main/Secondo%20Anno/Sistemi%20Operativi%20II.pdf) | -- | 06/03/2023 |
-| [Basi di Dati II](../../raw/main/Secondo%20Anno/Basi%20di%20Dati%20II.pdf) | In corso | 05/03/2023 |
+| [Basi di Dati II](../../raw/main/Secondo%20Anno/Basi%20di%20Dati%20II.pdf) | In corso | 07/03/2023 |
 | [Reti di Elaboratori](../../raw/main/Secondo%20Anno/Reti%di%Elaboratori.pdf) | -- | --/--/-- |
 </details>
 
