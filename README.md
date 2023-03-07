@@ -59,7 +59,7 @@ __________
 | Corso | Status | Aggiornati al |
 | ----- | :----: | :-----------: |
 | [Algebra](../../raw/main/Secondo%20Anno/Algebra.pdf) | Completi | 05/03/2023 |
-| [Sistemi Operativi I](../../raw/main/Secondo%20Anno/Sistemi%20Operativi%20I.pdf) | Completi | 06/03/2023 |
+| [Sistemi Operativi I](../../raw/main/Secondo%20Anno/Sistemi%20Operativi%20I.pdf) | Completi | 05/03/2023 |
 | [Basi di Dati I](../../raw/main/Secondo%20Anno/Basi%20di%20Dati%20I.pdf) | Completi | 05/03/2023 |
 | [Calcolo delle Probabilità](../../raw/main/Secondo%20Anno/Calcolo%20delle%20Probabilità.pdf) | Completi | 05/03/2023 |
 </details>
@@ -70,8 +70,8 @@ __________
 | Corso | Status | Aggiornati al |
 | ----- | :----: | :-----------: |
 | [Progettazione di Algoritmi](../../raw/main/Secondo%20Anno/Progettazione%20di%20Algoritmi.pdf) | In sincrono | 05/03/2023 |
-| [Sistemi Operativi II](../../raw/main/Secondo%20Anno/Sistemi%20Operativi%20II.pdf) | -- | 06/03/2023 |
-| [Basi di Dati II](../../raw/main/Secondo%20Anno/Basi%20di%20Dati%20II.pdf) | In corso | 07/03/2023 |
+| [Sistemi Operativi II](../../raw/main/Secondo%20Anno/Sistemi%20Operativi%20II.pdf) | -- | --/--/-- |
+| [Basi di Dati II](../../raw/main/Secondo%20Anno/Basi%20di%20Dati%20II.pdf) | In corso | 05/03/2023 |
 | [Reti di Elaboratori](../../raw/main/Secondo%20Anno/Reti%di%Elaboratori.pdf) | -- | --/--/-- |
 </details>
 
