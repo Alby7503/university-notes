@@ -69,7 +69,7 @@ __________
 
 | Corso | Status | Aggiornati al |
 | ----- | :----: | :-----------: |
-| [Progettazione di Algoritmi](../../raw/main/Secondo%20Anno/Progettazione%20di%20Algoritmi.pdf) | In corso | 19/04/2023 |
+| [Progettazione di Algoritmi](../../raw/main/Secondo%20Anno/Progettazione%20di%20Algoritmi.pdf) | In corso | 22/04/2023 |
 | [Sistemi Operativi II](../../raw/main/Secondo%20Anno/Sistemi%20Operativi%20II.pdf) | -- | --/--/-- |
 | [Basi di Dati II](../../raw/main/Secondo%20Anno/Basi%20di%20Dati%20II.pdf) | In corso | 19/04/2023 |
 | [Reti di Elaboratori](../../raw/main/Secondo%20Anno/Reti%20di%20Elaboratori.pdf) | In corso | 06/04/2023 |
