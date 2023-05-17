@@ -47,7 +47,7 @@ __________
 
 | Corso | Status | Aggiornati al |
 | ----- | :----: | :-----------: |
-| [Calcolo Integrale](../../raw/main/Primo%20Anno/Calcolo%20Integrale.pdf) | Completi | 26/04/2023 |
+| [Calcolo Integrale](../../raw/main/Primo%20Anno/Calcolo%20Integrale.pdf) | Completi | 17/05/2023 |
 | [Architettura degli Elaboratori](../../raw/main/Primo%20Anno/Architettura%20degli%20Elaboratori.pdf) | Quasi completi | 17/05/2023 |
 | [Introduzione agli Algoritmi](../../raw/main/Primo%20Anno/Introduzione%20agli%20Algoritmi.pdf) | Completi | 09/05/2023 |
 | [Metodologie di Programmazione](../../raw/main/Primo%20Anno/Metodologie%20di%20Programmazione.pdf) | Definizioni | 05/03/2023 |
@@ -72,7 +72,7 @@ __________
 | [Progettazione di Algoritmi](../../raw/main/Secondo%20Anno/Progettazione%20di%20Algoritmi.pdf) | In corso | 17/05/2023 |
 | [Sistemi Operativi II](../../raw/main/Secondo%20Anno/Sistemi%20Operativi%20II.pdf) | -- | --/--/-- |
 | [Basi di Dati II](../../raw/main/Secondo%20Anno/Basi%20di%20Dati%20II.pdf) | In corso | 26/04/2023 |
-| [Reti di Elaboratori](../../raw/main/Secondo%20Anno/Reti%20di%20Elaboratori.pdf) | In corso | 17/05/2023 |
+| [Reti di Elaboratori](../../raw/main/Secondo%20Anno/Reti%20di%20Elaboratori.pdf) | Completi | 17/05/2023 |
 </details>
 
 ________
